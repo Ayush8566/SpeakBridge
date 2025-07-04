@@ -1,7 +1,9 @@
 <h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
-#check-live= https://speakbridge.onrender.com/
+
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+
+#check-live= https://speakbridge.onrender.com/
 Highlights:
 
 - 🌐 Real-time Messaging with Typing Indicators & Reactions
