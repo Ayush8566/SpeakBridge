@@ -3,7 +3,7 @@
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
-#check-live= https://speakbridge.onrender.com/
+
 Highlights:
 
 - 🌐 Real-time Messaging with Typing Indicators & Reactions
